@@ -184,7 +184,7 @@ namespace DoAn.DAL
         public List<Group> Getallgroup(int userid)
         {
             List<Group> ls = new List<Group>();
-            string query = String.Format("select ten_nhom from nhom join chitietnhom   on nhom.ma_nhom = chitietnhom.ma_nhom and chitietnhom.userid='{0}'",userid);
+            string query = String.Format("select ten_nhom from nhom join chitietnhom on nhom.ma_nhom = chitietnhom.ma_nhom and chitietnhom.userid={0}",userid);
             try
             {
                 SqlConnection con = new SqlConnection(connstr.connectstr);

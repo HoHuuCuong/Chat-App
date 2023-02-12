@@ -133,3 +133,84 @@ C:\Users\Admin\source\repos\ChatApp\Server\Server\obj\Debug\net6.0-windows\refin
 C:\Users\Admin\source\repos\ChatApp\Server\Server\obj\Debug\net6.0-windows\Server.pdb
 C:\Users\Admin\source\repos\ChatApp\Server\Server\obj\Debug\net6.0-windows\Server.genruntimeconfig.cache
 C:\Users\Admin\source\repos\ChatApp\Server\Server\obj\Debug\net6.0-windows\ref\Server.dll
+D:\LAP TRINH MANG\ChatApp\Server\Server\bin\Debug\net6.0-windows\Server.exe
+D:\LAP TRINH MANG\ChatApp\Server\Server\bin\Debug\net6.0-windows\Server.deps.json
+D:\LAP TRINH MANG\ChatApp\Server\Server\bin\Debug\net6.0-windows\Server.runtimeconfig.json
+D:\LAP TRINH MANG\ChatApp\Server\Server\bin\Debug\net6.0-windows\Server.dll
+D:\LAP TRINH MANG\ChatApp\Server\Server\bin\Debug\net6.0-windows\Server.pdb
+D:\LAP TRINH MANG\ChatApp\Server\Server\bin\Debug\net6.0-windows\MaterialSkin.dll
+D:\LAP TRINH MANG\ChatApp\Server\Server\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\LAP TRINH MANG\ChatApp\Server\Server\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\LAP TRINH MANG\ChatApp\Server\Server\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\LAP TRINH MANG\ChatApp\Server\Server\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\LAP TRINH MANG\ChatApp\Server\Server\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\LAP TRINH MANG\ChatApp\Server\Server\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\LAP TRINH MANG\ChatApp\Server\Server\bin\Debug\net6.0-windows\GOI.dll
+D:\LAP TRINH MANG\ChatApp\Server\Server\bin\Debug\net6.0-windows\GOI.pdb
+D:\LAP TRINH MANG\ChatApp\Server\Server\obj\Debug\net6.0-windows\Server.csproj.AssemblyReference.cache
+D:\LAP TRINH MANG\ChatApp\Server\Server\obj\Debug\net6.0-windows\Server.Form1.resources
+D:\LAP TRINH MANG\ChatApp\Server\Server\obj\Debug\net6.0-windows\Server.csproj.GenerateResource.cache
+D:\LAP TRINH MANG\ChatApp\Server\Server\obj\Debug\net6.0-windows\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\LAP TRINH MANG\ChatApp\Server\Server\obj\Debug\net6.0-windows\Server.AssemblyInfoInputs.cache
+D:\LAP TRINH MANG\ChatApp\Server\Server\obj\Debug\net6.0-windows\Server.AssemblyInfo.cs
+D:\LAP TRINH MANG\ChatApp\Server\Server\obj\Debug\net6.0-windows\Server.csproj.CoreCompileInputs.cache
+D:\LAP TRINH MANG\ChatApp\Server\Server\obj\Debug\net6.0-windows\Server.csproj.CopyComplete
+D:\LAP TRINH MANG\ChatApp\Server\Server\obj\Debug\net6.0-windows\Server.dll
+D:\LAP TRINH MANG\ChatApp\Server\Server\obj\Debug\net6.0-windows\refint\Server.dll
+D:\LAP TRINH MANG\ChatApp\Server\Server\obj\Debug\net6.0-windows\Server.pdb
+D:\LAP TRINH MANG\ChatApp\Server\Server\obj\Debug\net6.0-windows\Server.genruntimeconfig.cache
+D:\LAP TRINH MANG\ChatApp\Server\Server\obj\Debug\net6.0-windows\ref\Server.dll
+D:\ltm\ChatApp\Server\Server\bin\Debug\net6.0-windows\Server.exe
+D:\ltm\ChatApp\Server\Server\bin\Debug\net6.0-windows\Server.deps.json
+D:\ltm\ChatApp\Server\Server\bin\Debug\net6.0-windows\Server.runtimeconfig.json
+D:\ltm\ChatApp\Server\Server\bin\Debug\net6.0-windows\Server.dll
+D:\ltm\ChatApp\Server\Server\bin\Debug\net6.0-windows\Server.pdb
+D:\ltm\ChatApp\Server\Server\bin\Debug\net6.0-windows\MaterialSkin.dll
+D:\ltm\ChatApp\Server\Server\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\ltm\ChatApp\Server\Server\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\ltm\ChatApp\Server\Server\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\ltm\ChatApp\Server\Server\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\ltm\ChatApp\Server\Server\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ltm\ChatApp\Server\Server\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ltm\ChatApp\Server\Server\bin\Debug\net6.0-windows\GOI.dll
+D:\ltm\ChatApp\Server\Server\bin\Debug\net6.0-windows\GOI.pdb
+D:\ltm\ChatApp\Server\Server\obj\Debug\net6.0-windows\Server.csproj.AssemblyReference.cache
+D:\ltm\ChatApp\Server\Server\obj\Debug\net6.0-windows\Server.Form1.resources
+D:\ltm\ChatApp\Server\Server\obj\Debug\net6.0-windows\Server.csproj.GenerateResource.cache
+D:\ltm\ChatApp\Server\Server\obj\Debug\net6.0-windows\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\ltm\ChatApp\Server\Server\obj\Debug\net6.0-windows\Server.AssemblyInfoInputs.cache
+D:\ltm\ChatApp\Server\Server\obj\Debug\net6.0-windows\Server.AssemblyInfo.cs
+D:\ltm\ChatApp\Server\Server\obj\Debug\net6.0-windows\Server.csproj.CoreCompileInputs.cache
+D:\ltm\ChatApp\Server\Server\obj\Debug\net6.0-windows\Server.csproj.CopyComplete
+D:\ltm\ChatApp\Server\Server\obj\Debug\net6.0-windows\Server.dll
+D:\ltm\ChatApp\Server\Server\obj\Debug\net6.0-windows\refint\Server.dll
+D:\ltm\ChatApp\Server\Server\obj\Debug\net6.0-windows\Server.pdb
+D:\ltm\ChatApp\Server\Server\obj\Debug\net6.0-windows\Server.genruntimeconfig.cache
+D:\ltm\ChatApp\Server\Server\obj\Debug\net6.0-windows\ref\Server.dll
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\Server\Server\bin\Debug\net6.0-windows\Server.exe
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\Server\Server\bin\Debug\net6.0-windows\Server.deps.json
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\Server\Server\bin\Debug\net6.0-windows\Server.runtimeconfig.json
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\Server\Server\bin\Debug\net6.0-windows\Server.dll
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\Server\Server\bin\Debug\net6.0-windows\Server.pdb
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\Server\Server\bin\Debug\net6.0-windows\MaterialSkin.dll
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\Server\Server\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\Server\Server\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\Server\Server\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\Server\Server\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\Server\Server\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\Server\Server\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\Server\Server\bin\Debug\net6.0-windows\GOI.dll
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\Server\Server\bin\Debug\net6.0-windows\GOI.pdb
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\Server\Server\obj\Debug\net6.0-windows\Server.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\Server\Server\obj\Debug\net6.0-windows\Server.Form1.resources
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\Server\Server\obj\Debug\net6.0-windows\Server.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\Server\Server\obj\Debug\net6.0-windows\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\Server\Server\obj\Debug\net6.0-windows\Server.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\Server\Server\obj\Debug\net6.0-windows\Server.AssemblyInfo.cs
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\Server\Server\obj\Debug\net6.0-windows\Server.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\Server\Server\obj\Debug\net6.0-windows\Server.csproj.CopyComplete
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\Server\Server\obj\Debug\net6.0-windows\Server.dll
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\Server\Server\obj\Debug\net6.0-windows\refint\Server.dll
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\Server\Server\obj\Debug\net6.0-windows\Server.pdb
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\Server\Server\obj\Debug\net6.0-windows\Server.genruntimeconfig.cache
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\Server\Server\obj\Debug\net6.0-windows\ref\Server.dll

@@ -58,3 +58,27 @@ C:\Users\Admin\source\repos\ChatApp\Server\GOI\obj\Debug\net6.0\GOI.dll
 C:\Users\Admin\source\repos\ChatApp\Server\GOI\obj\Debug\net6.0\refint\GOI.dll
 C:\Users\Admin\source\repos\ChatApp\Server\GOI\obj\Debug\net6.0\GOI.pdb
 C:\Users\Admin\source\repos\ChatApp\Server\GOI\obj\Debug\net6.0\ref\GOI.dll
+D:\LAP TRINH MANG\ChatApp\Server\GOI\bin\Debug\net6.0\GOI.deps.json
+D:\LAP TRINH MANG\ChatApp\Server\GOI\bin\Debug\net6.0\GOI.dll
+D:\LAP TRINH MANG\ChatApp\Server\GOI\bin\Debug\net6.0\GOI.pdb
+D:\LAP TRINH MANG\ChatApp\Server\GOI\obj\Debug\net6.0\GOI.csproj.AssemblyReference.cache
+D:\LAP TRINH MANG\ChatApp\Server\GOI\obj\Debug\net6.0\GOI.GeneratedMSBuildEditorConfig.editorconfig
+D:\LAP TRINH MANG\ChatApp\Server\GOI\obj\Debug\net6.0\GOI.AssemblyInfoInputs.cache
+D:\LAP TRINH MANG\ChatApp\Server\GOI\obj\Debug\net6.0\GOI.AssemblyInfo.cs
+D:\LAP TRINH MANG\ChatApp\Server\GOI\obj\Debug\net6.0\GOI.csproj.CoreCompileInputs.cache
+D:\LAP TRINH MANG\ChatApp\Server\GOI\obj\Debug\net6.0\GOI.dll
+D:\LAP TRINH MANG\ChatApp\Server\GOI\obj\Debug\net6.0\refint\GOI.dll
+D:\LAP TRINH MANG\ChatApp\Server\GOI\obj\Debug\net6.0\GOI.pdb
+D:\LAP TRINH MANG\ChatApp\Server\GOI\obj\Debug\net6.0\ref\GOI.dll
+D:\ltm\ChatApp\Server\GOI\bin\Debug\net6.0\GOI.deps.json
+D:\ltm\ChatApp\Server\GOI\bin\Debug\net6.0\GOI.dll
+D:\ltm\ChatApp\Server\GOI\bin\Debug\net6.0\GOI.pdb
+D:\ltm\ChatApp\Server\GOI\obj\Debug\net6.0\GOI.csproj.AssemblyReference.cache
+D:\ltm\ChatApp\Server\GOI\obj\Debug\net6.0\GOI.GeneratedMSBuildEditorConfig.editorconfig
+D:\ltm\ChatApp\Server\GOI\obj\Debug\net6.0\GOI.AssemblyInfoInputs.cache
+D:\ltm\ChatApp\Server\GOI\obj\Debug\net6.0\GOI.AssemblyInfo.cs
+D:\ltm\ChatApp\Server\GOI\obj\Debug\net6.0\GOI.csproj.CoreCompileInputs.cache
+D:\ltm\ChatApp\Server\GOI\obj\Debug\net6.0\GOI.dll
+D:\ltm\ChatApp\Server\GOI\obj\Debug\net6.0\refint\GOI.dll
+D:\ltm\ChatApp\Server\GOI\obj\Debug\net6.0\GOI.pdb
+D:\ltm\ChatApp\Server\GOI\obj\Debug\net6.0\ref\GOI.dll

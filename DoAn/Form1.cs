@@ -90,8 +90,6 @@ namespace DoAn
 
                 GOI.THUONG goidangnhap = new GOI.THUONG("dangnhap", jsonString);
                 sendJson(goidangnhap);
-
-
                 jsonString = sr.ReadLine();
                 jsonString.Replace("\\u0022", "\"");
                 GOI.THUONG? goinhan = JsonSerializer.Deserialize<GOI.THUONG>(jsonString);
@@ -108,9 +106,7 @@ namespace DoAn
                             CloseThisForm();
                             mainformThread.SetApartmentState(ApartmentState.STA);
                             mainformThread.Start();
-
                         }
-
                         else
                         {
                             MessageBox.Show("Dang nhap that bai!");

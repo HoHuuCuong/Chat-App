@@ -1,24 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\ChatApp\\DoAn\\DoAn.csproj": {}
+    "C:\\Users\\ACER\\source\\repos\\lap trinh mang\\DoAn\\ChatApp\\DoAn\\DoAn.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\ChatApp\\DoAn\\DoAn.csproj": {
+    "C:\\Users\\ACER\\source\\repos\\lap trinh mang\\DoAn\\ChatApp\\DoAn\\DoAn.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\ChatApp\\DoAn\\DoAn.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\source\\repos\\lap trinh mang\\DoAn\\ChatApp\\DoAn\\DoAn.csproj",
         "projectName": "DoAn",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\ChatApp\\DoAn\\DoAn.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\ChatApp\\DoAn\\obj\\",
+        "projectPath": "C:\\Users\\ACER\\source\\repos\\lap trinh mang\\DoAn\\ChatApp\\DoAn\\DoAn.csproj",
+        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ACER\\source\\repos\\lap trinh mang\\DoAn\\ChatApp\\DoAn\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0-windows"
+          "net6.0-windows7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -28,8 +32,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\Admin\\source\\repos\\ChatApp\\GOI\\GOI.csproj": {
-                "projectPath": "C:\\Users\\Admin\\source\\repos\\ChatApp\\GOI\\GOI.csproj"
+              "C:\\Users\\ACER\\source\\repos\\lap trinh mang\\DoAn\\ChatApp\\GOI\\GOI.csproj": {
+                "projectPath": "C:\\Users\\ACER\\source\\repos\\lap trinh mang\\DoAn\\ChatApp\\GOI\\GOI.csproj"
               }
             }
           }
@@ -59,8 +63,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -72,21 +75,25 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Admin\\source\\repos\\ChatApp\\GOI\\GOI.csproj": {
+    "C:\\Users\\ACER\\source\\repos\\lap trinh mang\\DoAn\\ChatApp\\GOI\\GOI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\ChatApp\\GOI\\GOI.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\source\\repos\\lap trinh mang\\DoAn\\ChatApp\\GOI\\GOI.csproj",
         "projectName": "GOI",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\ChatApp\\GOI\\GOI.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\ChatApp\\GOI\\obj\\",
+        "projectPath": "C:\\Users\\ACER\\source\\repos\\lap trinh mang\\DoAn\\ChatApp\\GOI\\GOI.csproj",
+        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ACER\\source\\repos\\lap trinh mang\\DoAn\\ChatApp\\GOI\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -117,8 +124,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -127,7 +133,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

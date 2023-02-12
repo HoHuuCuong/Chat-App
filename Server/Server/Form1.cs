@@ -276,7 +276,7 @@ namespace Server
                                                 mesdal.LuuTinNhanGR(mes.usernameSender, mes.usernameReceiver, mes.content, "", grid);
                                                 foreach (string user in useringr)
                                                 {
-                                                    if (DSClient.Keys.Contains(user) && user!=mes.usernameSender)
+                                                    if (DSClient.Keys.Contains(user) && user!= mes.usernameSender)
                                                     {
                                                             TcpClient friend = DSClient[user];
                                                             StreamWriter swtam = new StreamWriter(friend.GetStream());

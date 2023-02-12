@@ -144,3 +144,93 @@ C:\Users\Admin\source\repos\ChatApp\DoAn\obj\Debug\net6.0-windows\refint\DoAn.dl
 C:\Users\Admin\source\repos\ChatApp\DoAn\obj\Debug\net6.0-windows\DoAn.pdb
 C:\Users\Admin\source\repos\ChatApp\DoAn\obj\Debug\net6.0-windows\DoAn.genruntimeconfig.cache
 C:\Users\Admin\source\repos\ChatApp\DoAn\obj\Debug\net6.0-windows\ref\DoAn.dll
+D:\LAP TRINH MANG\ChatApp\DoAn\bin\Debug\net6.0-windows\DoAn.exe
+D:\LAP TRINH MANG\ChatApp\DoAn\bin\Debug\net6.0-windows\DoAn.deps.json
+D:\LAP TRINH MANG\ChatApp\DoAn\bin\Debug\net6.0-windows\DoAn.runtimeconfig.json
+D:\LAP TRINH MANG\ChatApp\DoAn\bin\Debug\net6.0-windows\DoAn.dll
+D:\LAP TRINH MANG\ChatApp\DoAn\bin\Debug\net6.0-windows\DoAn.pdb
+D:\LAP TRINH MANG\ChatApp\DoAn\bin\Debug\net6.0-windows\MaterialSkin.dll
+D:\LAP TRINH MANG\ChatApp\DoAn\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\LAP TRINH MANG\ChatApp\DoAn\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\LAP TRINH MANG\ChatApp\DoAn\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\LAP TRINH MANG\ChatApp\DoAn\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\LAP TRINH MANG\ChatApp\DoAn\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\LAP TRINH MANG\ChatApp\DoAn\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\LAP TRINH MANG\ChatApp\DoAn\bin\Debug\net6.0-windows\GOI.dll
+D:\LAP TRINH MANG\ChatApp\DoAn\bin\Debug\net6.0-windows\GOI.pdb
+D:\LAP TRINH MANG\ChatApp\DoAn\obj\Debug\net6.0-windows\DoAn.csproj.AssemblyReference.cache
+D:\LAP TRINH MANG\ChatApp\DoAn\obj\Debug\net6.0-windows\DoAn.Form1.resources
+D:\LAP TRINH MANG\ChatApp\DoAn\obj\Debug\net6.0-windows\DoAn.MainForm.resources
+D:\LAP TRINH MANG\ChatApp\DoAn\obj\Debug\net6.0-windows\DoAn.Properties.Resources.resources
+D:\LAP TRINH MANG\ChatApp\DoAn\obj\Debug\net6.0-windows\DoAn.TaoNhom.resources
+D:\LAP TRINH MANG\ChatApp\DoAn\obj\Debug\net6.0-windows\DoAn.csproj.GenerateResource.cache
+D:\LAP TRINH MANG\ChatApp\DoAn\obj\Debug\net6.0-windows\DoAn.GeneratedMSBuildEditorConfig.editorconfig
+D:\LAP TRINH MANG\ChatApp\DoAn\obj\Debug\net6.0-windows\DoAn.AssemblyInfoInputs.cache
+D:\LAP TRINH MANG\ChatApp\DoAn\obj\Debug\net6.0-windows\DoAn.AssemblyInfo.cs
+D:\LAP TRINH MANG\ChatApp\DoAn\obj\Debug\net6.0-windows\DoAn.csproj.CoreCompileInputs.cache
+D:\LAP TRINH MANG\ChatApp\DoAn\obj\Debug\net6.0-windows\DoAn.csproj.CopyComplete
+D:\LAP TRINH MANG\ChatApp\DoAn\obj\Debug\net6.0-windows\DoAn.dll
+D:\LAP TRINH MANG\ChatApp\DoAn\obj\Debug\net6.0-windows\refint\DoAn.dll
+D:\LAP TRINH MANG\ChatApp\DoAn\obj\Debug\net6.0-windows\DoAn.pdb
+D:\LAP TRINH MANG\ChatApp\DoAn\obj\Debug\net6.0-windows\DoAn.genruntimeconfig.cache
+D:\LAP TRINH MANG\ChatApp\DoAn\obj\Debug\net6.0-windows\ref\DoAn.dll
+D:\ltm\ChatApp\DoAn\bin\Debug\net6.0-windows\DoAn.exe
+D:\ltm\ChatApp\DoAn\bin\Debug\net6.0-windows\DoAn.deps.json
+D:\ltm\ChatApp\DoAn\bin\Debug\net6.0-windows\DoAn.runtimeconfig.json
+D:\ltm\ChatApp\DoAn\bin\Debug\net6.0-windows\DoAn.dll
+D:\ltm\ChatApp\DoAn\bin\Debug\net6.0-windows\DoAn.pdb
+D:\ltm\ChatApp\DoAn\bin\Debug\net6.0-windows\MaterialSkin.dll
+D:\ltm\ChatApp\DoAn\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\ltm\ChatApp\DoAn\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\ltm\ChatApp\DoAn\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\ltm\ChatApp\DoAn\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\ltm\ChatApp\DoAn\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ltm\ChatApp\DoAn\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ltm\ChatApp\DoAn\bin\Debug\net6.0-windows\GOI.dll
+D:\ltm\ChatApp\DoAn\bin\Debug\net6.0-windows\GOI.pdb
+D:\ltm\ChatApp\DoAn\obj\Debug\net6.0-windows\DoAn.csproj.AssemblyReference.cache
+D:\ltm\ChatApp\DoAn\obj\Debug\net6.0-windows\DoAn.Form1.resources
+D:\ltm\ChatApp\DoAn\obj\Debug\net6.0-windows\DoAn.MainForm.resources
+D:\ltm\ChatApp\DoAn\obj\Debug\net6.0-windows\DoAn.Properties.Resources.resources
+D:\ltm\ChatApp\DoAn\obj\Debug\net6.0-windows\DoAn.TaoNhom.resources
+D:\ltm\ChatApp\DoAn\obj\Debug\net6.0-windows\DoAn.csproj.GenerateResource.cache
+D:\ltm\ChatApp\DoAn\obj\Debug\net6.0-windows\DoAn.GeneratedMSBuildEditorConfig.editorconfig
+D:\ltm\ChatApp\DoAn\obj\Debug\net6.0-windows\DoAn.AssemblyInfoInputs.cache
+D:\ltm\ChatApp\DoAn\obj\Debug\net6.0-windows\DoAn.AssemblyInfo.cs
+D:\ltm\ChatApp\DoAn\obj\Debug\net6.0-windows\DoAn.csproj.CoreCompileInputs.cache
+D:\ltm\ChatApp\DoAn\obj\Debug\net6.0-windows\DoAn.csproj.CopyComplete
+D:\ltm\ChatApp\DoAn\obj\Debug\net6.0-windows\DoAn.dll
+D:\ltm\ChatApp\DoAn\obj\Debug\net6.0-windows\refint\DoAn.dll
+D:\ltm\ChatApp\DoAn\obj\Debug\net6.0-windows\DoAn.pdb
+D:\ltm\ChatApp\DoAn\obj\Debug\net6.0-windows\DoAn.genruntimeconfig.cache
+D:\ltm\ChatApp\DoAn\obj\Debug\net6.0-windows\ref\DoAn.dll
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\DoAn\bin\Debug\net6.0-windows\DoAn.exe
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\DoAn\bin\Debug\net6.0-windows\DoAn.deps.json
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\DoAn\bin\Debug\net6.0-windows\DoAn.runtimeconfig.json
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\DoAn\bin\Debug\net6.0-windows\DoAn.dll
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\DoAn\bin\Debug\net6.0-windows\DoAn.pdb
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\DoAn\bin\Debug\net6.0-windows\MaterialSkin.dll
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\DoAn\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\DoAn\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\DoAn\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\DoAn\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\DoAn\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\DoAn\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\DoAn\bin\Debug\net6.0-windows\GOI.dll
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\DoAn\bin\Debug\net6.0-windows\GOI.pdb
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\DoAn\obj\Debug\net6.0-windows\DoAn.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\DoAn\obj\Debug\net6.0-windows\DoAn.Form1.resources
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\DoAn\obj\Debug\net6.0-windows\DoAn.MainForm.resources
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\DoAn\obj\Debug\net6.0-windows\DoAn.Properties.Resources.resources
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\DoAn\obj\Debug\net6.0-windows\DoAn.TaoNhom.resources
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\DoAn\obj\Debug\net6.0-windows\DoAn.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\DoAn\obj\Debug\net6.0-windows\DoAn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\DoAn\obj\Debug\net6.0-windows\DoAn.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\DoAn\obj\Debug\net6.0-windows\DoAn.AssemblyInfo.cs
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\DoAn\obj\Debug\net6.0-windows\DoAn.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\DoAn\obj\Debug\net6.0-windows\DoAn.csproj.CopyComplete
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\DoAn\obj\Debug\net6.0-windows\DoAn.dll
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\DoAn\obj\Debug\net6.0-windows\refint\DoAn.dll
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\DoAn\obj\Debug\net6.0-windows\DoAn.pdb
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\DoAn\obj\Debug\net6.0-windows\DoAn.genruntimeconfig.cache
+C:\Users\ACER\source\repos\lap trinh mang\DoAn\ChatApp\DoAn\obj\Debug\net6.0-windows\ref\DoAn.dll
